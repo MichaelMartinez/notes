@@ -22,3 +22,10 @@ alkfdj;akjdf;aksjdf;lkajsdf;lkajdf;okj
 
 alkjdsf;lkjasd;flkjas;dfkj
 asdfasdfasdf
+
+```handwritten-ink
+{
+	"versionAtEmbed": "0.3.3",
+	"filepath": "Ink/Writing/2025.2.12 - 10.51am.writing"
+}
+```

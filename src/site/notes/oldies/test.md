@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/oldies/test/","tags":["awesome","stuff","rad","gardenEntry","gardenEntry","gardenEntry","gardenEntry"],"dgShowInlineTitle":true,"dgShowToc":true,"dgShowTags":true,"created":"2013-07-13","updated":"2025-02-11"}
+{"dg-publish":true,"permalink":"/oldies/test/","tags":["awesome","stuff","rad","gardenEntry"],"dgShowInlineTitle":true,"dgShowToc":true,"dgShowTags":true,"created":"2013-07-13","updated":"2025-02-11"}
 ---
 
 ---
@@ -31,6 +31,15 @@ akljdf;lakjdf;lakjdf;lakj
  
 asdjkf;lakjdf;lakjdf;lkajdf
 alakjdf;lkajdf
-alkfdj;akjdf;aksjdf;lkajsdf;lkajdf;okj
+Hello alkfdj;akjdf;aksjdf;lkajsdf;lkajdf;okj
 
 alkjdsf;lkjasd;flkjas;dfkj
+W 
+
+```handwritten-ink
+{
+	"versionAtEmbed": "0.3.3",
+	"filepath": "Ink/Writing/2025.2.12 - 10.50am.writing"
+}
+```
+
