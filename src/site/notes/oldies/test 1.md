@@ -1,16 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/oldies/test-1/","dgShowInlineTitle":true,"dgShowToc":true,"dgShowTags":true,"created":"Jul 21, 2013"}
+{"dg-publish":true,"permalink":"/oldies/test-1/","dgShowInlineTitle":true,"dgShowToc":true,"dgShowTags":true,"created":"Jul 21, 2013","updated":"Feb 11, 2025"}
 ---
 
-MMM dd, yyyy
-Title: Firefighter Gear
-Date: 2013-07-19 21:45
-Author: Michael
-Category: Design
-Tags: Firefighter, Gear, Nomex, Sewing
-Slug: firefighter-gear
-Status: published
+
 # header
+
+This is a picture!
 
 ![IMG_5984.jpg](/img/user/ZZZ_Media/IMG_5984.jpg)
 
