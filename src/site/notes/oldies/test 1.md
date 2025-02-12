@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/oldies/test-1/","dgShowInlineTitle":true,"dgShowToc":true,"dgShowTags":true,"created":"Jul 21, 2013","updated":"Feb 11, 2025"}
+{"dg-publish":true,"permalink":"/oldies/test-1/","tags":["#sewing","#fire","#stuff"],"dgShowInlineTitle":true,"dgShowToc":true,"dgShowTags":true,"created":"2013-07-21","updated":"2025-02-11"}
 ---
 
 
