@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/oldies/test-1/","dgShowInlineTitle":true,"dgShowToc":true,"dgShowTags":true,"created":"JUL 21, 2013"}
+{"dg-publish":true,"permalink":"/oldies/test-1/","dgShowInlineTitle":true,"dgShowToc":true,"dgShowTags":true,"created":"Jul 21, 2013"}
 ---
 
 MMM dd, yyyy
