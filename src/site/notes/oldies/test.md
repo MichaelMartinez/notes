@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/oldies/test/","tags":["gardenEntry"],"dgShowInlineTitle":true,"dgShowToc":true,"dgShowTags":true,"created":"Jul 19, 2013","updated":"Feb 11, 2025"}
+{"dg-publish":true,"permalink":"/oldies/test/","tags":["gardenEntry"],"dgShowInlineTitle":true,"dgShowToc":true,"dgShowTags":true,"created":"2013-07-13","updated":"2025-02-11"}
 ---
 
 ---
