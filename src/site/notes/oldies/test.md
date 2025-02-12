@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/oldies/test/","tags":["awesome","stuff","rad","gardenEntry","gardenEntry","gardenEntry"],"dgShowInlineTitle":true,"dgShowToc":true,"dgShowTags":true,"created":"2013-07-13","updated":"2025-02-11"}
+{"dg-publish":true,"permalink":"/oldies/test/","tags":["awesome","stuff","rad","gardenEntry","gardenEntry","gardenEntry","gardenEntry"],"dgShowInlineTitle":true,"dgShowToc":true,"dgShowTags":true,"created":"2013-07-13","updated":"2025-02-11"}
 ---
 
 ---
