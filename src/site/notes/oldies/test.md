@@ -12,7 +12,7 @@ Slug: firefighter-gear
 Status: published
 # header
 
-[[IMG_5984.jpg]]
+![IMG_5984.jpg](/img/user/ZZZ_Media/IMG_5984.jpg)
 
 ---
 [[oldies/test 1\|test 1]]
