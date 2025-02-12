@@ -7,13 +7,15 @@ Title: Firefighter Gear
 Date: 2013-07-19 21:45
 Author: Michael
 Category: Design
-Tags: Firefighter, Gear, Nomex, Sewing
+~~Tags: Firefighter, Gear, Nomex, Sewing~~
 Slug: firefighter-gear
 Status: published
 # header
 
 [[IMG_5984.jpg]]
 
+---
+[[oldies/test 1\|test 1]]
 ### Header 3
 [[Tools/Tool Research\|Tool Research]]
 akljdf;lakjdf;lakjdf;lakj
