@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/oldies/cordura/","dgShowInlineTitle":true,"dgShowToc":true,"dgLinkPreview":true,"created":"01/05/2014"}
+{"dg-publish":true,"permalink":"/oldies/cordura/","tags":["design","myog","sewing"],"dgShowInlineTitle":true,"dgShowToc":true,"dgLinkPreview":true,"dgShowTags":true,"created":"01/05/2014"}
 ---
 
 

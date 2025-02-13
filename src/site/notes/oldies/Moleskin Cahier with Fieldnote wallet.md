@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/oldies/moleskin-cahier-with-fieldnote-wallet/","dgShowInlineTitle":true,"dgShowToc":true,"dgLinkPreview":true,"created":"2015-10-16"}
+{"dg-publish":true,"permalink":"/oldies/moleskin-cahier-with-fieldnote-wallet/","tags":["design","myog","sewing"],"dgShowInlineTitle":true,"dgShowToc":true,"dgLinkPreview":true,"dgShowTags":true,"created":"2015-10-16"}
 ---
 
 

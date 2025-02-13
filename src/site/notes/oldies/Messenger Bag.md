@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/oldies/messenger-bag/","dgShowInlineTitle":true,"dgShowToc":true,"dgLinkPreview":true,"created":"07/09/2013"}
+{"dg-publish":true,"permalink":"/oldies/messenger-bag/","tags":["design","myog","sewing"],"dgShowInlineTitle":true,"dgShowToc":true,"dgLinkPreview":true,"dgShowTags":true,"created":"07/09/2013"}
 ---
 
 

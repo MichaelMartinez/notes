@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/oldies/modular-lumbar-pack/","dgShowInlineTitle":true,"dgShowToc":true,"dgLinkPreview":true,"created":"2013-10-18"}
+{"dg-publish":true,"permalink":"/oldies/modular-lumbar-pack/","tags":["myog","sewing","design"],"dgShowInlineTitle":true,"dgShowToc":true,"dgLinkPreview":true,"dgShowTags":true,"created":"2013-10-18"}
 ---
 
 

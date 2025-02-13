@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/oldies/flatpack-tablet-stand/","dgShowInlineTitle":true,"dgShowToc":true,"dgLinkPreview":true,"created":"2015-11-25"}
+{"dg-publish":true,"permalink":"/oldies/flatpack-tablet-stand/","tags":["CNC","design"],"dgShowInlineTitle":true,"dgShowToc":true,"dgLinkPreview":true,"created":"2015-11-25"}
 ---
 
 

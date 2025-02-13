@@ -12,10 +12,10 @@ With over 15 years of hobbyist programming experience, primarily in Python, I've
 ---
 
 
-- [[Compute/Blog/Notes\|Notes]]
-- [[oldies/Working with Github API v3\|Working with Github API v3]]
-- [[oldies/virtual-machine\|virtual-machine]]
-- [[oldies/Ubuntu to the Rescue\|Ubuntu to the Rescue]]
-- [[oldies/UKdroidcon-2011\|UKdroidcon-2011]]
+- [[oldies/Messenger Bag\|Messenger Bag]]
+- [[oldies/Baby changing pad\|Baby changing pad]]
+- [[oldies/Firefighter Gear\|Firefighter Gear]]
+- [[oldies/Cordura\|Cordura]]
+- [[oldies/Fauxdori Fieldnotes-Moleskine notebook cover\|Fauxdori Fieldnotes-Moleskine notebook cover]]
 
 { .block-language-dataview}

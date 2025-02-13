@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/oldies/baby-changing-pad/","dgShowInlineTitle":true,"dgShowToc":true,"dgLinkPreview":true,"created":"06/09/2013"}
+{"dg-publish":true,"permalink":"/oldies/baby-changing-pad/","tags":["design","sewing","myog"],"dgShowInlineTitle":true,"dgShowToc":true,"dgLinkPreview":true,"created":"06/09/2013"}
 ---
 
 

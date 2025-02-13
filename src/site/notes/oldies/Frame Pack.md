@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/oldies/frame-pack/","dgShowInlineTitle":true,"dgShowToc":true,"dgLinkPreview":true,"created":"09/05/2013"}
+{"dg-publish":true,"permalink":"/oldies/frame-pack/","tags":["design","myog","sewing"],"dgShowInlineTitle":true,"dgShowToc":true,"dgLinkPreview":true,"dgShowTags":true,"created":"09/05/2013"}
 ---
 
 

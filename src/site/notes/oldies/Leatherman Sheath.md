@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/oldies/leatherman-sheath/","dgShowInlineTitle":true,"dgShowToc":true,"dgLinkPreview":true,"created":"2013-09-29"}
+{"dg-publish":true,"permalink":"/oldies/leatherman-sheath/","tags":["myog","design","sewing"],"dgShowInlineTitle":true,"dgShowToc":true,"dgLinkPreview":true,"dgShowTags":true,"created":"2013-09-29"}
 ---
 
 

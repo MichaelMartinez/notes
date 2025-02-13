@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/oldies/rhodia-notebook-cover/","dgShowInlineTitle":true,"dgLinkPreview":true,"created":"2013-10-29"}
+{"dg-publish":true,"permalink":"/oldies/rhodia-notebook-cover/","tags":["myog","sewing","design"],"dgShowInlineTitle":true,"dgLinkPreview":true,"dgShowTags":true,"created":"2013-10-29"}
 ---
 
 

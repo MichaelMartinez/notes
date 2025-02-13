@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/oldies/fauxdori-fieldnotes-moleskine-notebook-cover/","dgShowInlineTitle":true,"dgShowToc":true,"dgLinkPreview":true,"created":"2015-11-24"}
+{"dg-publish":true,"permalink":"/oldies/fauxdori-fieldnotes-moleskine-notebook-cover/","tags":["design","myog","sewing"],"dgShowInlineTitle":true,"dgShowToc":true,"dgLinkPreview":true,"dgShowTags":true,"created":"2015-11-24"}
 ---
 
 

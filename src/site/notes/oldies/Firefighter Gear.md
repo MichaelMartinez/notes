@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/oldies/firefighter-gear/","dgShowInlineTitle":true,"dgShowToc":true,"dgLinkPreview":true,"created":"2013-07-19"}
+{"dg-publish":true,"permalink":"/oldies/firefighter-gear/","tags":["design","myog","sewing"],"dgShowInlineTitle":true,"dgShowToc":true,"dgLinkPreview":true,"created":"2013-07-19"}
 ---
 
 
