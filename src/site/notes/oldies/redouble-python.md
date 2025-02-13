@@ -1,7 +1,18 @@
 ---
-{"dg-publish":true,"permalink":"/oldies/redouble-python/"}
+dg-show-inline-title: false
+dg-publish: true
+dg-home: false
+dg-show-toc: false
+dg-created: 
+dg-updated: 
+dg-show-tags: false
+dg-link-preview: false
 ---
 
+---
+dg-publish: true
+dg-home: false
+---
 Title: Redouble efforts to stay relevant
 Date: 2017-07-23
 Author: Michael

@@ -1,7 +1,18 @@
 ---
-{"dg-publish":true,"permalink":"/oldies/nanogenmo-2017/"}
+dg-show-inline-title: false
+dg-publish: true
+dg-home: false
+dg-show-toc: false
+dg-created: 
+dg-updated: 
+dg-show-tags: false
+dg-link-preview: false
 ---
 
+---
+dg-publish: true
+dg-home: false
+---
 Title: NaNoGenMo 2017
 Date: 2017-11-26
 Author: Michael
