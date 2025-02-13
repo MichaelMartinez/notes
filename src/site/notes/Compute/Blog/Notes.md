@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/compute/blog/notes/","tags":["gardenEntry"],"dgShowInlineTitle":true,"created":"2025-02-12"}
+{"dg-publish":true,"permalink":"/compute/blog/notes/","tags":["gardenEntry"],"dgShowInlineTitle":true,"dgLinkPreview":true,"created":"2025-02-12"}
 ---
 
 ![banner.png](/img/user/ZZZ_Media/banner.png)
@@ -12,10 +12,10 @@ With over 15 years of hobbyist programming experience, primarily in Python, I've
 ---
 
 
+- [[Compute/Blog/Notes\|Notes]]
 - [[oldies/Working with Github API v3\|Working with Github API v3]]
 - [[oldies/virtual-machine\|virtual-machine]]
 - [[oldies/Ubuntu to the Rescue\|Ubuntu to the Rescue]]
 - [[oldies/UKdroidcon-2011\|UKdroidcon-2011]]
-- [[oldies/Vacation Hour Tracker app\|Vacation Hour Tracker app]]
 
 { .block-language-dataview}
