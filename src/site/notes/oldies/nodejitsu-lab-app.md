@@ -1,21 +1,8 @@
 ---
-dg-show-inline-title: false
-dg-publish: true
-dg-home: false
-dg-show-toc: false
-dg-created: 07/10/2012
-dg-updated: 
-dg-show-tags: false
-dg-link-preview: false
+{"dg-publish":true,"permalink":"/oldies/nodejitsu-lab-app/","created":"07/10/2012"}
 ---
 
-Title: Nodejitsu Lab App
-Date: 2012-07-10 23:57
-Author: Michael
-Category: JavaScript
-Tags: nodejitsu, nodejs
-Slug: nodejitsu-lab-app
-Status: published
+
 
 So I've been playing around with [node.js](http://nodejs.org/) a bit. I
 dig it basically because I dig Javascript. Node is one of those

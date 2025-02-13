@@ -1,21 +1,8 @@
 ---
-dg-show-inline-title: false
-dg-publish: true
-dg-home: false
-dg-show-toc: false
-dg-created: 01/04/2013
-dg-updated: 
-dg-show-tags: false
-dg-link-preview: false
+{"dg-publish":true,"permalink":"/oldies/virtual-machine/","dgShowInlineTitle":true,"dgShowToc":true,"dgLinkPreview":true,"created":"01/04/2013"}
 ---
 
-Title: Virtual Machines
-Date: 2013-01-04 22:21
-Author: Michael
-Category: VM 
-Tags: Virtual Computing
-Slug: virtual-machine
-Status: published
+
 
 
 Let me just put this right out there; Virtual Machines are awesome, but

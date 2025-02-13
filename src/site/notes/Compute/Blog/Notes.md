@@ -12,10 +12,10 @@ With over 15 years of hobbyist programming experience, primarily in Python, I've
 ---
 
 
-- [[oldies/working-with-github-api-v3\|working-with-github-api-v3]]
+- [[oldies/Working with Github API v3\|Working with Github API v3]]
 - [[oldies/virtual-machine\|virtual-machine]]
-- [[oldies/vacation-hour-tracker-app\|vacation-hour-tracker-app]]
-- [[oldies/ukdroidcon-2011\|ukdroidcon-2011]]
-- [[oldies/ubuntu-to-the-rescue\|ubuntu-to-the-rescue]]
+- [[oldies/Ubuntu to the Rescue\|Ubuntu to the Rescue]]
+- [[oldies/UKdroidcon-2011\|UKdroidcon-2011]]
+- [[oldies/Vacation Hour Tracker app\|Vacation Hour Tracker app]]
 
 { .block-language-dataview}
